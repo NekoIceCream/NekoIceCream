@@ -3,6 +3,5 @@ Hi There 😀
 My Name NekoIceCream
 I Like Coding
 
-https://github.com/NekoIceCream/github-readme-stats 
-
-https://github.com/NekoIceCream/MyPortfolio
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoIceCream&layout=compact&theme=radical)
+]
