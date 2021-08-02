@@ -3,15 +3,6 @@ Hi There 😀
 My Name NekoIceCream
 I Like Coding
 
-## I Always Use Programming Language
+https://github.com/NekoIceCream/github-readme-stats 
 
-#### I.    Js
-#### II.   Java
-#### III.  Python3
-#### IV.   Bash
-#### V.    PHP
-
-### I Always Work At Home 🏘️
-
-### ✉ Bussines Email : nekoicecream@outlook.co.id ✉️
--
+https://github.com/NekoIceCream/MyPortfolio
