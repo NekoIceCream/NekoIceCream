@@ -2,8 +2,8 @@
 Hi There 😀
 My Name NekoIceCream
 
-![-] Kotlin Developer
-![-] JavaScript Developer
+- [-] Kotlin Developer
+- [-] JavaScript Developer
 
 I use Windows 11 And Arch Linux BTW
 
