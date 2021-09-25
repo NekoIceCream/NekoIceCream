@@ -56,6 +56,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
