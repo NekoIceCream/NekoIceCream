@@ -2,7 +2,7 @@
 <img width="" height = "" src="" alt="cover" />
 </div>
 
-<h1> Hellow :3 < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hellow :3 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NekoIceCream.NekoIceCream)
