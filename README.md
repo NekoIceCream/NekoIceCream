@@ -10,12 +10,12 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on NekoIceTeam, EterNomm
+- 🔭 I’m currently working on [NekoIceTeam](https://github.com/NekoIceTeam), [EterNomm](https://github.com/EterNomm)
 
 - 🌱 I’m currently learning Java, Kotlin, PHP, CSS, JavaScript
 
 
-- 👯 I’m looking to collaborate on IceLinux, IceLinux-Installer
+- 👯 I’m looking to collaborate on [IceLinux](https://github.com/NekoIceTeam/IceLinux), [IceLinux-Installer](https://github.com/NekoIceTeam/IceLinux-Installer)
 
 
 - 💬 Talk to me about Java, ArchLinux, OpenSource 
