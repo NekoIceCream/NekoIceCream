@@ -47,3 +47,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgc6mwshmqqe7b2c37p2xnxe7q&cover_image=true&theme=novatorem&bar_color=004cff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wgc6mwshmqqe7b2c37p2xnxe7q&redirect=true)
+
+<img src="https://discordapp.com/api/guilds/835863428450877441/widget.png?style=banner3" alt="Discord Banner 3"/>
