@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is NekoIceCream. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is NekoIceCream. :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -10,15 +10,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [NekoIceTeam](https://github.com/NekoIceTeam), [EterNomm](https://github.com/EterNomm)
+- 🔭 I’m currently working on [NekoIceTeam](https://github.com/NekoIceTeam), [EtherLinux](https://github.com/EtherLinux), [EterNomm](https://github.com/EterNomm)
 
 - 🌱 I’m currently learning Java, Kotlin, PHP, CSS, JavaScript
 
 
-- 👯 I’m looking to collaborate on [IceLinux](https://github.com/NekoIceTeam/IceLinux), [IceLinux-Installer](https://github.com/NekoIceTeam/IceLinux-Installer)
+- 👯 I’m looking to collaborate on 
 
 
-- 💬 Talk to me about ArchLinux And OpenSource 
+- 💬 Talk to me about ArchLinux, LinuxFromScratch, And OpenSource 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/NekoIceCream?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -45,9 +45,5 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<h2> My Activity Right Now </h2>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgc6mwshmqqe7b2c37p2xnxe7q&cover_image=true&theme=novatorem&bar_color=004cff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wgc6mwshmqqe7b2c37p2xnxe7q&redirect=true)
 
 <img src="https://discordapp.com/api/guilds/835863428450877441/widget.png?style=banner3" alt="Discord Banner 3"/>
